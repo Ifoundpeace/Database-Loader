@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\Database Loader By Shokoloko\Database Loader By Shokoloko\bin\Debug\Database Loader By Shokoloko.exe.config
+C:\Users\USER\source\repos\Database Loader By Shokoloko\Database Loader By Shokoloko\bin\Debug\Database Loader By Shokoloko.exe
+C:\Users\USER\source\repos\Database Loader By Shokoloko\Database Loader By Shokoloko\bin\Debug\Database Loader By Shokoloko.pdb
+C:\Users\USER\source\repos\Database Loader By Shokoloko\Database Loader By Shokoloko\obj\Debug\Database Loader By Shokoloko.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Database Loader By Shokoloko\Database Loader By Shokoloko\obj\Debug\Database Loader By Shokoloko.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\Database Loader By Shokoloko\Database Loader By Shokoloko\obj\Debug\Database_Loader_By_Shokoloko.Properties.Resources.resources
+C:\Users\USER\source\repos\Database Loader By Shokoloko\Database Loader By Shokoloko\obj\Debug\Database Loader By Shokoloko.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Database Loader By Shokoloko\Database Loader By Shokoloko\obj\Debug\Database Loader By Shokoloko.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Database Loader By Shokoloko\Database Loader By Shokoloko\obj\Debug\Database Loader By Shokoloko.exe
+C:\Users\USER\source\repos\Database Loader By Shokoloko\Database Loader By Shokoloko\obj\Debug\Database Loader By Shokoloko.pdb
+C:\Users\USER\source\repos\Database Loader By Shokoloko\Database Loader By Shokoloko\obj\Debug\Database_Loader_By_Shokoloko.DatabaseLoader.resources

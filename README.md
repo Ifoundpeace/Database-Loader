@@ -1,5 +1,5 @@
 # DatabaseLoader
-a software in c# with gui which loads any txt files and uses a search engine for comfortable searching
+A software in c# with gui which loads any txt files and uses a search engine for comfortable searching
 
 This software is built with c# .NET framework and windows forms and uses CLI for logs.
 It is used to load big txt files of databases and search them easily and fast.
